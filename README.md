@@ -21,4 +21,8 @@ Funcionalidades
 | Docker                   | Dockerfile incluido para empaquetar la app                |
 | Conexión BD              | SQLite usada para almacenar los datos                     |
 
+![image](https://github.com/user-attachments/assets/3c71be94-ed54-407a-931b-f7a5c9ba2679)
+![image](https://github.com/user-attachments/assets/79a4ba92-93a0-499d-8428-b5d0d9902beb)
+![image](https://github.com/user-attachments/assets/28da1841-ed70-4cc8-a0a8-eb5293de4608)
+
 
